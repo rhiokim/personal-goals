@@ -26,3 +26,6 @@ Personal goals made open source for accessibility across computers I use, transp
 ##### Things I'll do in the future
 - [ ] Write book
 - [ ] Make an nwjs boilerplate
+
+## References
+- https://rauchg.com/2017/2016-in-review
