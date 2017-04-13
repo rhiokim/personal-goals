@@ -9,7 +9,8 @@
   moving-my-http-website-to-https-using-letsencrypt-haproxy-and-docker-deb56ff6be9b
 - [ ] Static Types with JS
   - https://medium.freecodecamp.com/why-use-static-types-in-javascript-part-1-8382da1e0adb
-- [ ] RxJS with React.js
+- [ ] React.js
+  - [ ] https://hackernoon.com/10-react-mini-patterns-c1da92f068c5
   - [ ] https://medium.com/@fahad19/using-rxjs-with-react-js-part-i-introduction-4d027ef55aa6#.qpwqyadfu
   - [ ] https://medium.com/@fahad19/using-rxjs-with-react-js-part-2-streaming-props-to-component-c7792bc1f40f#.a2bq3zi8r
 - [ ] Read Articles
