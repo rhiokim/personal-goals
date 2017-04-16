@@ -16,7 +16,6 @@
 - [ ] Read Articles
   - [ ] A warning from Bill Gates, Elon Musk, and Stephen Hawking - https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398#.jmkppoxi
 
-
 ### Apr 11 - Apr 14
 - [x] .seed project
   - [x] test mocha/chai
