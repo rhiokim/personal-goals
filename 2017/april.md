@@ -16,6 +16,25 @@
 - [ ] Read Articles
   - [ ] A warning from Bill Gates, Elon Musk, and Stephen Hawking - https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398#.jmkppoxi
 
+### Apr 23 - Apr 29
+- [ ] 26일 티티카카
+- [ ] CLI Seed Project
+- [ ] TODO CLI based on gist
+- [ ] Gorae Project Planning 2017
+- [ ] Study ECMA-262 2018 - https://tc39.github.io/ecma262/#sec-map-objects
+- [ ] Webpack 2.x initial project
+  - [ ] https://medium.com/webpack/webpack-2-and-beyond-40520af9067f
+  - [ ] https://www.youtube.com/watch?v=eWmkBNBTbMM
+  - [ ] https://blog.flennik.com/the-fine-art-of-the-webpack-2-config-dc4d19d7f172
+
+### Apr 16 - Apr 22
+- [x] now.sh test - https://p3-jwt.now.sh/
+- [x] React-Boilerplate
+  - [x] implement multi-layout routing
+  - [x] implement JSON Web Token example
+- [ ] Presentation: Continuous Integration with Project based on Node.js
+  - [x] basic senario
+
 ### Apr 11 - Apr 14
 - [x] .seed project
   - [x] test mocha/chai
