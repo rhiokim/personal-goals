@@ -11,15 +11,17 @@
 
 ### Jan 15 - Jan 19
 - Make Docker CLI for npm based project [idea-docker-cli.md](idea-docker-cli.md)
-- [ ] Seoul.js Plan 2018
-  - [ ] Offline Workshop
-  - [ ] Call for speakers guideline
+- [x] Seoul.js Plan 2018
+  - [x] Offline Workshop [link](https://seoul.js.org/plan/2018.html)
+  - [x] Call for speakers guideline: [link](https://seoul.js.org/seoul.js/call-for-speaker.html)
 
 ### Jan 22 - Jan 26
 - Improve .seed-next-app
-  - Dockerization
-  - CI(travis)
-  - Async/Await data fetching sample
+  - [x] Dockerization
+  - [x] CI(travis)
+  - [x] Async/Await data fetching sample
 
 ### Jan 29 - Feb 2
--
+- Improve .seed-next-app
+  - [ ] Social Authentication
+  - [ ] Graph-QL
