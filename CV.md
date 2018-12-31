@@ -13,11 +13,14 @@
 현재와 미래의 밥로스와 더글라스 크록포드와 같은 사람이 되기를 꿈꿉니다.
 
 안녕하세요! 개발자 김양원입니다.
-이제 경력과 기술은 년차로 전문성을 인정받는 것보다 개발자로서 세상과 사회를 계속 발전시키는 구성원이 되려고 늘 노력합니다.
 
-더불어 조직에서 목표를 달성하고 문제를 해결하기 위해 필요한 기술적인 요구를 꾸준히 습득함을 게을리하지 않습니다.
+경력과 기술은 년차로 전문성을 인정받는 것보다 개발자로서 세상과 사회를 계속 발전시키는 구성원이 되려고 늘 노력합니다.
 
-성숙한 개발자 문화를 꿈꾸고 실천합니다. 넘기 어려워보이는 비지니스 목표나 복잡하고 어려울것 같은 기술적인 이슈도  구성원 각자의 성장과 동시에 더욱더 투명한 비젼을 계획할 수 있다고 생각합니다.
+더불어 조직에서 목표를 달성하고 문제를 해결하기 위해 필요한 기술적인 요구를 꾸준히 습득하고 공유 활동을 유지하려 노력합니다.
+
+성숙한 개발자 문화를 꿈꾸고 실천합니다. 성숙한 개발자 문화는 구성원 각자의 성장과 동시에 넘기 어려워보이는 비지니스 목표나 복잡한 기술적인 이슈도 가볍게 해주고 조직의 목표나 비젼을 더욱 투명하게 합니다.
+
+언제든지 Why 에 대해 깊이 고민하고 본질의 문제를 투명하게 정의하고 우리가 생각하는 목표를 달성하기 위해 노력하는 개발자가 되기 위해 노력합니다.
 
 * Github: https://github.com/rhiokim
 * Twitter: https://twitter.com/rhiokim
@@ -290,7 +293,7 @@ flickr 와 같이 개인 사진을 관리하는 서비스 <현재는 Ndrive 와 
 
 ### Flybook - 정적 문서 편집기
 
-![](https://flybook.js.org/basic/images/logo-250x250.png "" "width: 100px")
+![](https://flybook.js.org/basic/images/logo-250x250.png "")
 
 오픈소스 혹은 작은 라이브러리 하나를 만들더라도 그걸 사용하는 누군가에게 메뉴얼은 너무 중요하지만 그 과정과 문서화를 퍼블리싱하는 과정은 쉬운일은 아니기 때문에 소홀히 하는 경우가 많은데 이 과정을 손쉽게 만들기 위한 CLI 프로젝트
 
@@ -309,7 +312,7 @@ OSS(Open Source Software) Governance 를 위한 서비스 중에 하나로 깃�
 
 ### Gona - 할일 관리 도구 (CLI, Electron App)
 
-![](https://raw.githubusercontent.com/rhiokim/gona/gh-pages/static/images/logo.png "" "width:100px")
+![](https://raw.githubusercontent.com/rhiokim/gona/gh-pages/static/images/logo.png "")
 
 일렉트론(Electron) 기반 프로젝트로 CLI 도 함께 지원하는 할일 관리 데스크탑 애플리케이션
 
@@ -491,68 +494,73 @@ NW.js(node-webkit), Node.js, Marked.js, codemirror, twitter bootstrap, backbone.
 
 회고는 2012년 부터 꾸준히 해오고 있는데 관리 소홀로 아래의 4년도의 회고만 남아있습니다. 2016년 부터는 계획을 작성하고 그 계획을 바탕으로 실질적인 실행과 액션에 대한 결과와 함께 회고를 진행하고 있습니다.
 
-* 2018 plan / 2018 retrospect
-* 2017 plan / 2017 retrospect
-* 2016 plan
-* [2012 retrospect](http://rhio.tistory.com/)
+* [2018 plan](./2018.md) / [2018 retrospect](./2018/retrospect.md)
+* [2017 plan](./2017.md) / [2017 retrospect](./2017/retrospect.md)
+* [2016 plan](./2016.md)
+* [2012 retrospect](http://rhio.tistory.com/392)
 
 ### Communities
 
-Seoul.js   | Topic                           | Presentation
-:---------:|---------------------------------|---------------------------
-2018.08.18 | [Seoul.js first meetup](http://bit.ly/2EVtnAw)           | http://bit.ly/2QX4Nps, 오거나이징
-2018.07.27 | [Lighting talk 2018](http://bit.ly/2ETaQ7O) | 오거나이징
+### Seoul.js
 
-FRENDS     | Topic                           | Presentation
-:---------:|---------------------------------|---------------------------
-2010.05    | Appcelerator Titainum           | http://slidesha.re/9HIVdw
-2010.10    | Writing Native Addon in Node.js | http://scr.bi/9eq8ea
-2011.05    | Function Work in JavaScript     | http://slidesha.re/qu9NZp
-2011.07    | JavaScript History              | http://slidesha.re/qyGOCa
-2012.06    | Static Blog engine Haroopress   | http://slidesha.re/PO3JL7
+| Date   | Topic                           | Presentation |
+|:---------:|------------------------------|--------------------------|
+| 2018.08.18 | [Seoul.js first meetup](http://bit.ly/2EVtnAw)           | http://bit.ly/2QX4Nps, 오거나이징 |
+| 2018.07.27 | [Lighting talk 2018](http://bit.ly/2ETaQ7O) | 오거나이징 |
+
+#### FRENDS
+
+| Date       | Topic                           | Presentation |
+|:----------:|---------------------------------|---------------------------|
+| 2010.05    | Appcelerator Titainum           | http://slidesha.re/9HIVdw |
+| 2010.10    | Writing Native Addon in Node.js | http://scr.bi/9eq8ea |
+| 2011.05    | Function Work in JavaScript     | http://slidesha.re/qu9NZp |
+| 2011.07    | JavaScript History              | http://slidesha.re/qyGOCa |
+| 2012.06    | Static Blog engine Haroopress   | http://slidesha.re/PO3JL7 |
 
 ### 교육, 세미나
 
-행사 / 모임      |   주제                             |  규모       | 비고
----------------|----------------------------------|------------|------------
-LG R&D Campus  | 실습을 통한 Node.js 프로그래밍 이해하기  | 30         |
-               | Node.js 의 본질, 서버 아키텍쳐의 영향력  |            |
-               | 에코 시스템에 대한 이해와 활용           |            |
+| 행사 / 모임     |   주제                             |  규모       | 비고 |
+|---------------|----------------------------------|------------|-----|
+| LG R&D Campus | 실습을 통한 Node.js 프로그래밍 이해하기  | 30         | |
+|               | Node.js 의 본질, 서버 아키텍쳐의 영향력  |            | |
+|               | 에코 시스템에 대한 이해와 활용           |            | |
 
 ### 컨퍼런스, 강연
 
-행사 / 모임        |   주제                                    |  규모   | 관련자료
-----------------|------------------------------------------|:------:|--------------
-FEConf Korea 2017 | Javascript fatigue | 200    | [http://bit.ly/2qGjWOZ](http://bit.ly/2qGjWOZ)
-Seoul.js Meetup (2017) | 문서화에 날개를 달아주는 Flybook CLI | 200    | [http://bit.ly/2qFlE39](http://bit.ly/2qFlE39)
-OSS 개발자 포럼 오픈소스 개발자 이야기 (2017) | 나는 오픈소스로 화가가 되었다 | 200    | [http://bit.ly/2D7IEKY](http://bit.ly/2D7IEKY)
-OSS 개발자 포럼 Git/Github 세미나 (2017) | 나는 오픈소스로 요리를 배웠다   | 40    | [http://bit.ly/2ofWsKP](http://bit.ly/2ofWsKP)
-Node.js 컨퍼런스 (2016) | Docker, Docker Swarm mangement tool - Gorae   | 100    | [http://bit.ly/2mWX5JE](http://bit.ly/2mWX5JE)
-Node.js 컨퍼런스 (2012) | Node.js 기반 정적 페이지 블로그 엔진, 하루프레스   | 250    | [http://bit.ly/UjWNta](http://bit.ly/UjWNta)
-KTH H3 컨퍼런스    | 2012년 우리가 모르는 Node.js 로 할 수 있는 몇가지 | 1,000  | [http://bit.ly/SP17Bn](http://bit.ly/SP17Bn)
-                | 2011년 웹 소프트웨어 시장의 새로운 롤 자바스크립트   | 700     | [http://slidesha.re/SDs5HZ](http://slidesha.re/SDs5HZ)
-웹앱퓨처콘 2011    | 자바스크립트 전성시대                          | 300     | [http://bit.ly/fVNx5I](http://bit.ly/fVNx5I), [http://bit.ly/p0ZCoT](http://bit.ly/p0ZCoT)
-웹 데브 모바일      | JavaScript Developer Generation          | 120     |
-                | Hybrid WebApp Platform Appcelerator Titanium | 50  | [http://scr.bi/nrY7tb](http://scr.bi/nrY7tb)
+| 행사 / 모임        |   주제                                    |  규모   | 관련자료
+|----------------|------------------------------------------|:------:|--------------
+| FEConf Korea 2017 | Javascript fatigue | 200    | [http://bit.ly/2qGjWOZ](http://bit.ly/2qGjWOZ)
+| Seoul.js Meetup (2017) | 문서화에 날개를 달아주는 Flybook CLI | 200    | [http://bit.ly/2qFlE39](http://bit.ly/2qFlE39)
+| OSS 개발자 포럼 오픈소스 개발자 이야기 (2017) | 나는 오픈소스로 화가가 되었다 | 200    | [http://bit.ly/2D7IEKY](http://bit.ly/2D7IEKY)
+| OSS 개발자 포럼 Git/Github 세미나 (2017) | 나는 오픈소스로 요리를 배웠다   | 40    | [http://bit.ly/2ofWsKP](http://bit.ly/2ofWsKP)
+| Node.js 컨퍼런스 (2016) | Docker, Docker Swarm mangement tool - Gorae   | 100    | [http://bit.ly/2mWX5JE](http://bit.ly/2mWX5JE)
+| Node.js 컨퍼런스 (2012) | Node.js 기반 정적 페이지 블로그 엔진, 하루프레스   | 250    | [http://bit.ly/UjWNta](http://bit.ly/UjWNta)
+| KTH H3 컨퍼런스 2012 | 2012년 우리가 모르는 Node.js 로 할 수 있는 몇가지 | 1,000  | [http://bit.ly/SP17Bn](http://bit.ly/SP17Bn)
+| KTH H3 컨퍼런스 2011 | 2011년 웹 소프트웨어 시장의 새로운 롤 자바스크립트   | 700     | [http://slidesha.re/SDs5HZ](http://slidesha.re/SDs5HZ)
+| 웹앱퓨처콘 2011    | 자바스크립트 전성시대                          | 300     | [http://bit.ly/fVNx5I](http://bit.ly/fVNx5I), [http://bit.ly/p0ZCoT](http://bit.ly/p0ZCoT)
+| 웹 데브 모바일      | JavaScript Developer Generation          | 120     |
+| 웹 데브 모바일      | Hybrid WebApp Platform Appcelerator Titanium | 50  | [http://scr.bi/nrY7tb](http://scr.bi/nrY7tb)
 
 ## 기타 소셜 액티비티 스트림
 
-Site       | URL
-:---------:|-------------------------------------
-Slideshare | http://www.slideshare.net/rhio.kim
-Blog       | http://rhio.tistory.com
+| Site       | URL |
+|:----------:|------------------------------------|
+| Slideshare | http://www.slideshare.net/rhio.kim |
+| Blog       | http://rhio.tistory.com |
 
 ## Licenses
 
-License Name | License No. | Organzation | Date
--------------|-------------|-------------|---------
-정보처리기사    | 02202200156M | 한국 산업인력 공단 | 2002.8.19
-정보처리 산업기사 | 02201200446M | 한국 산업인력 공단 | 2002.06.03
-네트워크 관리사 |  | 한국 정보통신자격협회 |
+| License Name | License No. | Organzation | Date |
+|--------------|-------------|-------------|---------|
+| 정보처리기사    | 02202200156M | 한국 산업인력 공단 | 2002.8.19 |
+| 정보처리 산업기사 | 02201200446M | 한국 산업인력 공단 | 2002.06.03 |
+| 네트워크 관리사 |  | 한국 정보통신자격협회 | |
 
 ## ETC
 
 * 초정밀 성격진단 mgram 결과 - https://mgram.me/ko/share/LNjqQmn-no985SyvCpP?
+* MBTI (2011) - ENTJ - https://namu.wiki/w/ENTJ
 
 ---
 위의 내용은 사실임을 증명하며, 만약 사실이 아닐 경우 MIT 라이센스로 이 정보를 개인적인 용도로 이용할 수 있도록 허용합니다.
