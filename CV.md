@@ -293,7 +293,8 @@ flickr 와 같이 개인 사진을 관리하는 서비스 <현재는 Ndrive 와 
 
 ### Flybook - 정적 문서 편집기
 
-![](https://flybook.js.org/basic/images/logo-250x250.png "")
+<!-- ![](https://github.com/rhiokim/flybook/blob/master/docs/basic/images/logo-250x250.png?raw=true "") -->
+<img src="https://github.com/rhiokim/flybook/blob/master/docs/basic/images/logo-250x250.png?raw=true" width="100">
 
 오픈소스 혹은 작은 라이브러리 하나를 만들더라도 그걸 사용하는 누군가에게 메뉴얼은 너무 중요하지만 그 과정과 문서화를 퍼블리싱하는 과정은 쉬운일은 아니기 때문에 소홀히 하는 경우가 많은데 이 과정을 손쉽게 만들기 위한 CLI 프로젝트
 
@@ -307,12 +308,16 @@ flickr 와 같이 개인 사진을 관리하는 서비스 <현재는 Ndrive 와 
 OSS(Open Source Software) Governance 를 위한 서비스 중에 하나로 깃헙과 같은 협업 시스템에서 의사결정을 위해 필요한 투표 생성 서비스
 
 * 저장소 - https://github.com/rhiokim/flypoll
-* 데모 - https://rhiokim.github.io/fly-poll-web/
+* 데모
+  * 투표생성기 - https://rhiokim.github.io/fly-poll-web/
+  * 결과 - https://github.com/seouljs/seoul.js.org/blob/master/docs/meetups/2017.08.18(1st).md#schedule
 * 사용기술 - Vue.js, Node.js, Google Firebase
 
 ### Gona - 할일 관리 도구 (CLI, Electron App)
 
-![](https://raw.githubusercontent.com/rhiokim/gona/gh-pages/static/images/logo.png "")
+<!-- ![](https://github.com/rhiokim/gona/blob/gh-pages/static/images/logo.png?raw=true "") -->
+
+<img src="https://github.com/rhiokim/gona/blob/gh-pages/static/images/logo.png?raw=true" width="100">
 
 일렉트론(Electron) 기반 프로젝트로 CLI 도 함께 지원하는 할일 관리 데스크탑 애플리케이션
 
