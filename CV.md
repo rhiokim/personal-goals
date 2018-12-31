@@ -4,7 +4,7 @@
 
 | Now  | Future      |
 |:---------:|:--------------:|
-|![](https://avatars3.githubusercontent.com/u/145777?v=3&u=d2a7dc8cc7be849d1e3cfbb98d1550708ccd1c2b&s=175)<br/> 김양원(Rhio Kim) | ![](./media/douglascrockford.jpeg) ![](./media/babros.jpg)<br>Douglas Crockford + Bob Ross
+|![](https://avatars3.githubusercontent.com/u/145777?v=3&u=d2a7dc8cc7be849d1e3cfbb98d1550708ccd1c2b&s=175)<br/> 김양원(Rhio Kim) | ![](./media/douglas_crock_ford.jpeg) ![](./media/babros.jpg)<br>Douglas Crockford + Bob Ross
 
 | 연락처 | 이메일 | 생년월일 | 주소 |
 |--------|-------|-------|-----|
@@ -57,15 +57,18 @@
 
 * 역할
   * 투어티켓 커머스 상품 전시, 상세, 예약, 주문에 필요한 프론트엔드 개발 전담
+  * 내 예약 관리 서비스 서스테이닝
   * 트리플 -> 공급사(waug.com) 이종 서비스간 주문폼 정보 매핑을 위한 예약폼 IDL 구현
-  * 예약 관리 서비스 서스테이닝
   * Google Lighthouse 를 이용한 웹 애플리케이션 퍼포먼스 튜닝
-  * Cypress.io 를 이용한 E2E 테스트 작성
+  * Cypress.io 를 이용한 E2E 테스트 케이스 관리
+  * iOS, Android 연동에 발생하는 기술적인 이슈 대응
+  * Vue.js SPA + NginX + AWS + Google Cloud CI/CD Pipeline 운영
 
 * 사용기술
   * Vue.js, Vuex, Vue-Router, Vuetify, PWA, NginX, Docker, Google Cloud Build, AWS, Cypress
 
-**결재 시스템 내제화 프로젝트**
+#### 결재 시스템 내제화 프로젝트
+
 웹투어를 통한 호텔 결제 대행을 유지해오다 투어티켓 서비스의 확장으로 결제 내재화 프로젝트
 
 * 역할
@@ -75,7 +78,18 @@
 * 사용기술
   * Next.js/Nuxt.js, Express, Vue.js, Vuex, Vue-Router, Vuetify
 
-**OTA(Online Travel Agency) 플랫폼**
+#### 호텔 예약 서비스
+
+여행에 필요한 숙박 정보 검색 및 예약 서비스
+
+* 역할 - 서스테이닝
+  * 호텔 상품정보 소셜 공유기능 구현
+  * 디자인 2.0 통일화 개선작업에 필요한 Markup, CSS 개선
+* 사용기술
+  * Vue.js
+
+#### OTA(Online Travel Agency) 플랫폼
+
 숙박(호텔) 정보를 제공하는 공급사(EAN, Agoda, GTA, 하나투어 등)와 숙박 정보가 필요한 판매 사이트를 연결해주기 위한 OTA(Online Travel Agency) 플랫폼, 6개월간 POC 개발
 
 * 역할
@@ -86,17 +100,18 @@
 * 사용기술
   * React.js, ES6, Redux, React-Router, Flowtype, Node.js, Jest, GRPC, Docker(Kubernetes), Jenkins, AWS
 
-**회사 홈페이지** <small style="font-size: .8rem">https://triple-corp.com</small>
+#### 회사 홈페이지 <small style="font-size: .8rem">https://triple-corp.com</small>
 
 * 역할
   * Next.js 기반 SSR 웹 사이트 개발
-  * Travis CI + AWS 빌드, 배포 자동화
+  * Travis CI + AWS CI/CD Pipeline 운영 관리
 * 사용기술
   * Next.js, React, Flowtype, Travis CI, AWS
 
 ### CDNetworks - Edge Computing R&D
 
-**New CDN(Content Distribution Network) platform - Edge OS**
+#### New CDN(Content Distribution Network) platform - Edge Computing
+
 Cache 와 Edge Computing 에 중점을 둔 오케스트레이션 서비스로 CDNetworks 의 차세대 CDN 인프라 운영 방식을 개선하기 위한 프로젝트.
 
 * 역할
@@ -111,7 +126,8 @@ Cache 와 Edge Computing 에 중점을 둔 오케스트레이션 서비스로 CD
   * Frontend: Angular2 (in Typescript), React.js
   * DevOps: Jenkins, Docker Registry
 
-**RASP WAF(Realtime Application Self-Protection Web Application Firewall)**
+#### RASP WAF(Realtime Application Self-Protection Web Application Firewall)
+
 이 프로젝는 런타임의 웹 애플리케이션의 DDoS 나 SQL Injection, XSS 등과 같은 공격이나 취약점 접근을 탐지하여 Layer 3/4 와 7 보호를 할 수 있는 Virtual Appliance 형태의 WAF 솔루션.
 
 * 역할
@@ -125,7 +141,8 @@ Cache 와 Edge Computing 에 중점을 둔 오케스트레이션 서비스로 CD
 
 ### KTH - 모바일 백엔드 플랫폼 <small style="font-size: .8rem">https://baas.io</small>
 
-**모바일 백엔드 플랫폼 baas.io**
+#### 모바일 백엔드 플랫폼 baas.io
+
 모바일 앱 개발을 위해 필요한 서버 환경에 구성요소(Resource, File Storage, User Authentication, Push & etc)를 자동화하여 설치 및 설정하고 플랫폼(iOS, Android, Javascript)별로 SDK 를 제공하여 모바일 앱 개발을 위한 백앤드 솔루션
 
 * 역할
@@ -137,7 +154,8 @@ Cache 와 Edge Computing 에 중점을 둔 오케스트레이션 서비스로 CD
   * Frontend: Backbone.js, jQuery, require.js, grunt.js, twitter bootstrap, Node.js 등
   * Agile & Scrum 협업, Git WorkFlow 제안 및 실천법 공유
 
-**스마트 콘텐츠 제작도구, 리얼목업 서비스**
+#### 스마트 콘텐츠 제작도구, 리얼목업 서비스
+
 모바일 앱 기획이 필요하거나 기획을 하는 사람이 이 서비스를 이용하여 실제와 동등한 수준의 모바일 앱을 손쉽게 프로토타이핑 해볼 수 있는 iPad 급 이상의 화면 너비 장치에서 제공되는 웹 서비스 <국책 사업>
 
 * 역할
@@ -145,7 +163,8 @@ Cache 와 Edge Computing 에 중점을 둔 오케스트레이션 서비스로 CD
 * 사용기술
   * Frontend: Backbone.js, jQuery, require.js, Node.js
 
-**H3 컨퍼런스 2011 사이트 구축**
+#### H3 컨퍼런스 2011 사이트 구축
+
 KTH 에서 매년 진행하는 H3 개발자 컨퍼런스 사이트
 
 * 역할
@@ -155,24 +174,26 @@ KTH 에서 매년 진행하는 H3 개발자 컨퍼런스 사이트
 
 ### NHN - Calendar, Ajax UI Lab
 
-**캘린더 서비스**
+#### 캘린더 서비스
+
 친절한 나의 스케쥴 메니저로 캘린더 기반의 다양한 사용자 서비스
 
 * 역할
-  * 캘린더 서비스 프론트엔드 개발 및 서스테이닝 UI 개발 파트 리딩
+  * 캘린더 서비스 서스테이닝 UI 개발 파트 리딩
   * 크로스 브라우징
 * 사용기술
   * Frontend: Jindo <네이버 사내 자바스크립트 라이브러리>, QUnit, Jenkins
 
-**포토앨범 서비스**
+#### 포토앨범 서비스
+
 flickr 와 같이 개인 사진을 관리하는 서비스 <현재는 Ndrive 와 통합됨>
 
 * 역할
   * 이미지 뷰어 및 사진관리 Full Javascript Application 개발
 * 사용기술
-> Jindo <네이버 사내 자바스크립트 라이브러리>, QUnit
+  * Jindo <네이버 사내 자바스크립트 라이브러리>, QUnit
 
-**사내 자바스크립트 전문 강사 활동**
+#### 사내 자바스크립트 전문 강사 활동
 
 1. 숨겨진 자바스크립트 정복 가이드 : http://scr.bi/pOTPNI
 2. 자바스크립트 기초 : http://scr.bi/nioQBv
@@ -181,7 +202,8 @@ flickr 와 같이 개인 사진을 관리하는 서비스 <현재는 Ndrive 와 
 
 ### 아이토비 - Visual Search Interface R&D
 
-**동영상 블로그 및 카테고리 서비스**
+#### 동영상 블로그 및 카테고리 서비스
+
 인터넷상에 존재하는 동영상들을 크롤링하여 정해진 시간 단위의 스냅샷과 스냅영상을 스파이럴(Spiral) 알고리즘을 통해 시각화하여 동영상 검색의 UX 를 개선하고자 했습니다.
 
 * 역할
@@ -220,7 +242,7 @@ flickr 와 같이 개인 사진을 관리하는 서비스 <현재는 Ndrive 와 
 
 ### 나라아이넷 - 법률 검색 솔루션
 
-**킹스필드 (판례), 법누리 (대한민국 현행법령)**
+#### 킹스필드 (판례), 법누리 (대한민국 현행법령)
 대한민국 법령, 판례 등 법률 관련 자료 검색을 위한 프로그램
 
 * 역할
@@ -228,7 +250,8 @@ flickr 와 같이 개인 사진을 관리하는 서비스 <현재는 Ndrive 와 
 * 사용기술
   * Delphi, Oracle, Sqlite
 
-**일본 세무, 회계 법률 검색 솔루션**
+#### T&A Master - 일본 세무, 회계 법률 검색 솔루션
+
 일본 세무, 회계 관련 법률 검색 솔루션 http://www.e-hoki.com/ta/index.html?ac=contents
 
 * 역할
