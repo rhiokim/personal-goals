@@ -1,20 +1,78 @@
 # Curriculum Vitae
 
+**Rhio, Kim**
+**김양원**
+
+Mobile: 010-8347-9747
+Email: rhio.kim@gmail.com
+Address: 서울시 강남구 논현로 106길 17
+Birth: 1980.04.05
+
+## Summary
+
+2002년 대학 벤처창업을 시작으로 개발자가 된 이후 2007년 Web 2.0과 Frontend 기술이 떠오르던 때 부터 Web Standards & Browser Technologies 기반의 웹 애플리케이션 개발 경험을 꾸준히 쌓아왔고 더불어 2010년부터 Node.js 와 함께 현재에 이르기까지 Frameworks, Platforms, Utilities, DevOps 및 IoT 에 대한 기술과 경험들도 함께 Universal Javascript 애플리케이션 경험을 축척해오고 있습니다.
+
+그리고 지난 2013년부터 2015년까지 Haroopad 라는 마크다운 에디터를 OSS 프로젝트로 성장시켜온 과정을 통해 소프트웨어 라이프사이클에 대해서 깊게 이해하고 실행할 수 있는 경험을 갖게 되면서 매년 꾸준히 OSS 프로젝트를 진행하고 있으며 웹 개발 영역의 틀을 넘어서기 위해서 2015년 부터는 Microservice Architecture/Service Ochestration 과 Edge Computing 에 대한 2년간의 실무 경험을 바탕으로 소소한 OSS 도 진행하였습니다.
+
+최근 몇년간 혼자 커버할 수 있는 정보의 양을 넘어서게 되면서 함께 성장할 수 있도록 Javascript, Node.js, Frontend 관련 컨퍼런스와 커뮤니티 활동을 통한 지식과 기술 확산, 개발자 네트워킹 활동을 유지하려고 노력하고 있습니다.
+
+## Core Competencies
+
+* 대규모 웹 애플리케이션 설계와 개발
+  * 효율적인 워크 플로우, PWA, SSR, 테스팅, 퍼포먼스 튜닝, 툴링, SEO
+  * 웹 컴포넌트 주도 애플리케이션 개발 경험
+  * Mobile, Desktop & IOT 환경에 대한 경험과 이해
+* 프로세스에 대한 일반적인 이해와 경험
+  * 모던 웹 애플리케이션 아키텍쳐
+  * 엣지 컴퓨팅 솔루션과 CI/CD 파이프라인
+  * 대규모 e커머스 비지니스
+  * Cross functional 팀 워킹
+* 오픈 소스 소프트웨어 라이프사이클 경험
+* 마이크로서비스 아키텍쳐와 서비스 오케스트레이션
+
+<!-- * Design and Implementation large-scale web application
+  * Effecient workflow, PWA, Universal Rendering, Testing, Performance Tunning, Tooling
+  * Web Components driven development
+  * Mobile, Desktop and IOT
+* General understanding of processes
+  * in Modern web applicaiton architecture
+  * in CI/CD pipeline with any kinds of edge computing solution
+  * in large-scale e-Commerce business
+  * Working in cross-functional teams
+* OSS life cycle experiences
+* Microservice architecture & Service orchestration -->
+
+## Skills
+
+* Programing language
+  * Javascript(ES6+) with Flowtype, Typescript
+  * Dynamic CSS(SASS/Stylus/Less)
+* Frameworks & Tools
+  * React.js, Vue.js, Electron/Node-webkit, PWA
+  * Server Side Rendering (Next.js/Nuxt.js), API Gateway (Loopback.js)
+  * State Machine
+  * Module Bundlers (Webpack, Rollup)
+  * Testing (Jest, Cypress)
+* Backend
+  * Node.js, NginX, Apache
+* DB
+  * RDB(MySQL), Document-oriented Database (MongoDB, CouchDB)
+  * Key/Value Store (Redis, LevelDB)
+* Infrastructure/Orchestration & CI/CD
+  * AWS, Docker Data Center, Nomad, Kubernetes, Now.sh
+  * Google Cloud Build, Travis/CircleCI, Jenkins, Bitbucket/Gitlab Pipeline
+
 ## About Me
 
 | Now  | Future      |
 |:---------:|:--------------:|
 |![](https://avatars3.githubusercontent.com/u/145777?v=3&u=d2a7dc8cc7be849d1e3cfbb98d1550708ccd1c2b&s=175)<br/> 김양원(Rhio Kim) | ![](./media/douglas_crock_ford.jpeg) ![](./media/babros.jpg)<br>Douglas Crockford + Bob Ross
 
-| 연락처 | 이메일 | 생년월일 | 주소 |
-|--------|-------|-------|-----|
-| 010-8347-9747 | rhio.kim@gmail.com | 1980-04-05 | 서울시 강남구 논현로 106길 |
-
 현재와 미래의 밥로스와 더글라스 크록포드와 같은 사람이 되기를 꿈꿉니다.
 
 안녕하세요! 개발자 김양원입니다.
 
-경력과 기술은 년차로 전문성을 인정받는 것보다 개발자로서 세상과 사회를 계속 발전시키는 구성원이 되려고 늘 노력합니다.
+경력과 기술이 년차로 전문성을 인정받는 것보다 목적을 달성하는 행동 하나하나가 기업의 개발문화에 기여하여 개발자로서 세상과 사회를 계속 발전시키는 구성원이 되려고 늘 노력합니다.
 
 더불어 조직에서 목표를 달성하고 문제를 해결하기 위해 필요한 기술적인 요구를 꾸준히 습득하고 공유 활동을 유지하려 노력합니다.
 
@@ -49,7 +107,7 @@
 
 ### Triple - 실시간 여행가이드 앱
 
-#### 투어 & 액티비티 커머스 서비스
+#### 투어 & 액티비티 커머스 서비스 / 8mo
 
 여행지에서 즐길 수 있는 다양한 투어, 티켓, 교통패스, 액티비티 등을 예약/구매 할 수 있는 커머스 서비스 및 내 예약관리 서비스
 
@@ -60,17 +118,17 @@
 
 * 역할
   * 투어티켓 커머스 상품 전시, 상세, 예약, 주문에 필요한 프론트엔드 개발 전담
-  * 내 예약 관리 서비스 서스테이닝
-  * 트리플 -> 공급사(waug.com) 이종 서비스간 주문폼 정보 매핑을 위한 예약폼 IDL 구현
+  * 트리플 <-> 공급사 이종 서비스간 주문폼 정보 매핑을 위한 예약폼 IDL 구현
   * Google Lighthouse 를 이용한 웹 애플리케이션 퍼포먼스 튜닝
   * Cypress.io 를 이용한 E2E 테스트 케이스 관리
-  * iOS, Android 연동에 발생하는 기술적인 이슈 대응
+  * 모바일 웹뷰 연동에 발생하는 기술적인 이슈 대응
+  * 내 예약 관리 서비스 서스테이닝
   * Vue.js SPA + NginX + AWS + Google Cloud CI/CD Pipeline 운영
 
 * 사용기술
-  * Vue.js, Vuex, Vue-Router, Vuetify, PWA, NginX, Docker, Google Cloud Build, AWS, Cypress
+  * Vue.js, CSS/Stylus, Vuex, Vuetify, PWA, NginX, Docker, Google Cloud Build, AWS, Cypress
 
-#### 결재 시스템 내제화 프로젝트
+#### 결재 시스템 내제화 프로젝트 / 8mo
 
 웹투어를 통한 호텔 결제 대행을 유지해오다 투어티켓 서비스의 확장으로 결제 내재화 프로젝트
 
@@ -79,9 +137,9 @@
   * 결제 테스트 환경 Sandbox 애플리케이션 개발
   * React.js 기반의 Next.js 에서 프레임웍 통일을 위해서 Vue.js 기반의 Nuxt.js 로 전환
 * 사용기술
-  * Next.js/Nuxt.js, Express, Vue.js, Vuex, Vue-Router, Vuetify
+  * Next.js/Nuxt.js, CSS/Stylus, Express.js, Vue.js, Vuex, Vuetify
 
-#### 호텔 예약 서비스
+#### 호텔 예약 서비스 / 2mo
 
 여행에 필요한 숙박 정보 검색 및 예약 서비스
 
@@ -89,11 +147,11 @@
   * 호텔 상품정보 소셜 공유기능 구현
   * 디자인 2.0 통일화 개선작업에 필요한 Markup, CSS 개선
 * 사용기술
-  * Vue.js
+  * Vue.js, Vuex, CSS/Stylus
 
-#### OTA(Online Travel Agency) 플랫폼
+#### OTA(Online Travel Agency) 플랫폼 / 6mo
 
-숙박(호텔) 정보를 제공하는 공급사(EAN, Agoda, GTA, 하나투어 등)와 숙박 정보가 필요한 판매 사이트를 연결해주기 위한 OTA(Online Travel Agency) 플랫폼, 6개월간 POC 개발
+숙박(호텔) 정보를 제공하는 공급사(EAN, Agoda, GTA, 하나투어 등)와 숙박 정보가 필요한 판매 사이트를 연결해주기 위한 OTA(Online Travel Agency) 플랫폼 POC 개발
 
 * 역할
   * 프론트엔드 개발 라이프 사이클(Develop/Build/Test/Deploy/Review) 에 대한 기술 리딩
@@ -103,7 +161,7 @@
 * 사용기술
   * React.js, ES6, Redux, React-Router, Flowtype, Node.js, Jest, GRPC, Docker(Kubernetes), Jenkins, AWS
 
-#### 회사 홈페이지 <small style="font-size: .8rem">https://triple-corp.com</small>
+#### 회사 홈페이지 <small style="font-size: .8rem">https://triple-corp.com</small> / 3week
 
 * 역할
   * Next.js 기반 SSR 웹 사이트 개발
@@ -113,7 +171,7 @@
 
 ### CDNetworks - Edge Computing R&D
 
-#### New CDN(Content Distribution Network) platform - Edge Computing
+#### New CDN(Content Distribution Network) platform - Edge Computing / 10mo
 
 Cache 와 Edge Computing 에 중점을 둔 오케스트레이션 서비스로 CDNetworks 의 차세대 CDN 인프라 운영 방식을 개선하기 위한 프로젝트.
 
@@ -129,7 +187,7 @@ Cache 와 Edge Computing 에 중점을 둔 오케스트레이션 서비스로 CD
   * Frontend: Angular2 (in Typescript), React.js
   * DevOps: Jenkins, Docker Registry
 
-#### RASP WAF(Realtime Application Self-Protection Web Application Firewall)
+#### RASP WAF(Realtime Application Self-Protection Web Application Firewall) / 2mo
 
 이 프로젝는 런타임의 웹 애플리케이션의 DDoS 나 SQL Injection, XSS 등과 같은 공격이나 취약점 접근을 탐지하여 Layer 3/4 와 7 보호를 할 수 있는 Virtual Appliance 형태의 WAF 솔루션.
 
@@ -144,7 +202,7 @@ Cache 와 Edge Computing 에 중점을 둔 오케스트레이션 서비스로 CD
 
 ### KTH - 모바일 백엔드 플랫폼 <small style="font-size: .8rem">https://baas.io</small>
 
-#### 모바일 백엔드 플랫폼 baas.io
+#### 모바일 백엔드 플랫폼 baas.io / 5mo
 
 모바일 앱 개발을 위해 필요한 서버 환경에 구성요소(Resource, File Storage, User Authentication, Push & etc)를 자동화하여 설치 및 설정하고 플랫폼(iOS, Android, Javascript)별로 SDK 를 제공하여 모바일 앱 개발을 위한 백앤드 솔루션
 
@@ -157,7 +215,7 @@ Cache 와 Edge Computing 에 중점을 둔 오케스트레이션 서비스로 CD
   * Frontend: Backbone.js, jQuery, require.js, grunt.js, twitter bootstrap, Node.js 등
   * Agile & Scrum 협업, Git WorkFlow 제안 및 실천법 공유
 
-#### 스마트 콘텐츠 제작도구, 리얼목업 서비스
+#### 스마트 콘텐츠 제작도구, 리얼목업 서비스 / 8mo
 
 모바일 앱 기획이 필요하거나 기획을 하는 사람이 이 서비스를 이용하여 실제와 동등한 수준의 모바일 앱을 손쉽게 프로토타이핑 해볼 수 있는 iPad 급 이상의 화면 너비 장치에서 제공되는 웹 서비스 <국책 사업>
 
@@ -166,7 +224,7 @@ Cache 와 Edge Computing 에 중점을 둔 오케스트레이션 서비스로 CD
 * 사용기술
   * Frontend: Backbone.js, jQuery, require.js, Node.js
 
-#### H3 컨퍼런스 2011 사이트 구축
+#### H3 컨퍼런스 2011 사이트 구축 / 1mo
 
 KTH 에서 매년 진행하는 H3 개발자 컨퍼런스 사이트
 
@@ -177,7 +235,7 @@ KTH 에서 매년 진행하는 H3 개발자 컨퍼런스 사이트
 
 ### NHN - Calendar, Ajax UI Lab
 
-#### 캘린더 서비스
+#### 캘린더 서비스 / 6mo
 
 친절한 나의 스케쥴 메니저로 캘린더 기반의 다양한 사용자 서비스
 
@@ -187,7 +245,7 @@ KTH 에서 매년 진행하는 H3 개발자 컨퍼런스 사이트
 * 사용기술
   * Frontend: Jindo <네이버 사내 자바스크립트 라이브러리>, QUnit, Jenkins
 
-#### 포토앨범 서비스
+#### 포토앨범 서비스 / 8mo
 
 flickr 와 같이 개인 사진을 관리하는 서비스 <현재는 Ndrive 와 통합됨>
 
@@ -451,7 +509,7 @@ NW.js(node-webkit), Node.js, Marked.js, codemirror, twitter bootstrap, backbone.
 * Docker Icon: 키노트로 그린 도커 아이콘
 	* https://github.com/rhiokim/docker-icons
 	![](https://raw.githubusercontent.com/rhiokim/docker-icons/master/media/intro.png)
-* Wifi Finder: Node.js 구현한 와이파이 탐색기
+* Wifi Finder: Node.js 구현한 와이파이 탐색기 CLI
   * https://github.com/rhiokim/wifi
 * Seed Project: Node.js 과 최신 웹 기술을 기반으로 한 복잡한 Configuration 을 최소화하고 빠른 웹 애플리케이션 및 API 서버등을 개발하기 용이하도록 Pre-Configuration 한 프로젝트입니다.
   * https://github.com/rhiokim/.seed-cli
@@ -460,7 +518,6 @@ NW.js(node-webkit), Node.js, Marked.js, codemirror, twitter bootstrap, backbone.
   * https://github.com/rhiokim/.seed-api-server
   * https://github.com/rhiokim/react-boilerplate
   * https://github.com/rhiokim/.seed-next-app
-* locally: 원하는 디렉토리를 웹 서버로 띄우기 위한 CLI 툴로 Python SimpleHTTPServer 모듈에 영감을 얻어 개발되었습니다.
   * [https://github.com/rhiokim/locally](https://github.com/rhiokim/locally)
 * grunt-sloc : Grunt.js 플러그인으로 물리적 코드 라인에 대한 다양한 정보를 보여준다.
 	* https://github.com/rhiokim/grunt-sloc
@@ -472,6 +529,7 @@ NW.js(node-webkit), Node.js, Marked.js, codemirror, twitter bootstrap, backbone.
   * webkit-speech API 를 이용한 LED 제어 : https://vimeo.com/33859298
 * 맥 키노트용 테마 : http://rhiokim.github.io/keynote-themes/
 * Mou 에디터 to 에버노트 : http://rhiokim.github.io/Mou2Evernote/
+* locally: 원하는 디렉토리를 웹 서버로 띄우기 위한 CLI 툴로 Python SimpleHTTPServer 모듈에 영감을 얻어 개발되었습니다.
 
 <!--
 ### 진행했던 프로젝트 <small>(2013.05 ~ 2013.05)</small>
@@ -501,12 +559,13 @@ NW.js(node-webkit), Node.js, Marked.js, codemirror, twitter bootstrap, backbone.
 
 * [2018 plan](./2018.md) / [2018 retrospect](./2018/retrospect.md)
 * [2017 plan](./2017.md) / [2017 retrospect](./2017/retrospect.md)
-* [2016 plan](./2016.md)
-* [2012 retrospect](http://rhio.tistory.com/392)
+* [2016 plan](./2016.md) / [2016 retrospect](./2016/retrospect.md)
+* [2013 retrospect](./2013/retrospect.md)
+* [2012 retrospect](./2012/retrospect.md)
 
 ### Communities
 
-### Seoul.js
+#### Seoul.js
 
 | Date   | Topic                           | Presentation |
 |:---------:|------------------------------|--------------------------|
@@ -565,7 +624,7 @@ NW.js(node-webkit), Node.js, Marked.js, codemirror, twitter bootstrap, backbone.
 ## ETC
 
 * 초정밀 성격진단 mgram 결과 - https://mgram.me/ko/share/LNjqQmn-no985SyvCpP?
-* MBTI (2011) - ENTJ - https://namu.wiki/w/ENTJ
+* MBTI (2011) - INFJ 성격 - https://namu.wiki/w/INFJ, https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-infj
 
 ---
 위의 내용은 사실임을 증명하며, 만약 사실이 아닐 경우 MIT 라이센스로 이 정보를 개인적인 용도로 이용할 수 있도록 허용합니다.
