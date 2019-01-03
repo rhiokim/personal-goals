@@ -1,18 +1,19 @@
 # Curriculum Vitae
 
 **Rhio, Kim**
+
 **김양원**
 
-Mobile: 010-8347-9747
-Email: rhio.kim@gmail.com
-Address: 서울시 강남구 논현로 106길 17
-Birth: 1980.04.05
+* Mobile: 010-8347-9747
+* Email: rhio.kim@gmail.com
+* Address: 서울시 강남구 논현로 106길 17
+* Birth: 1980.04.05
 
 ## Summary
 
 2002년 대학 벤처창업을 시작으로 개발자가 된 이후 2007년 Web 2.0과 Frontend 기술이 떠오르던 때 부터 Web Standards & Browser Technologies 기반의 웹 애플리케이션 개발 경험을 꾸준히 쌓아왔고 더불어 2010년부터 Node.js 와 함께 현재에 이르기까지 Frameworks, Platforms, Utilities, DevOps 및 IoT 에 대한 기술과 경험들도 함께 Universal Javascript 애플리케이션 경험을 축척해오고 있습니다.
 
-그리고 지난 2013년부터 2015년까지 Haroopad 라는 마크다운 에디터를 OSS 프로젝트로 성장시켜온 과정을 통해 소프트웨어 라이프사이클에 대해서 깊게 이해하고 실행할 수 있는 경험을 갖게 되면서 매년 꾸준히 OSS 프로젝트를 진행하고 있으며 웹 개발 영역의 틀을 넘어서기 위해서 2015년 부터는 Microservice Architecture/Service Ochestration 과 Edge Computing 에 대한 2년간의 실무 경험을 바탕으로 소소한 OSS 도 진행하였습니다.
+그리고 지난 2013년부터 2015년까지 [Haroopad](#하루패드-haroopad) 라는 마크다운 에디터를 OSS 프로젝트로 성장시켜온 과정을 통해 소프트웨어 라이프사이클에 대해서 깊게 이해하고 실행할 수 있는 경험을 갖게 되면서 매년 꾸준히 OSS 프로젝트를 진행하고 있으며 웹 개발 영역의 틀을 넘어서기 위해서 2015년 부터는 Microservice Architecture/Service Ochestration 과 Edge Computing 에 대한 2년간의 실무 경험을 바탕으로 소소한 OSS 도 진행하였습니다.
 
 최근 몇년간 혼자 커버할 수 있는 정보의 양을 넘어서게 되면서 함께 성장할 수 있도록 Javascript, Node.js, Frontend 관련 컨퍼런스와 커뮤니티 활동을 통한 지식과 기술 확산, 개발자 네트워킹 활동을 유지하려고 노력하고 있습니다.
 
@@ -26,7 +27,7 @@ Birth: 1980.04.05
   * 모던 웹 애플리케이션 아키텍쳐
   * 엣지 컴퓨팅 솔루션과 CI/CD 파이프라인
   * 대규모 e커머스 비지니스
-  * Cross functional 팀 워킹
+  * 크로스 펑셔널(Cross-Functional)팀 워킹
 * 오픈 소스 소프트웨어 라이프사이클 경험
 * 마이크로서비스 아키텍쳐와 서비스 오케스트레이션
 
@@ -46,7 +47,7 @@ Birth: 1980.04.05
 
 * Programing language
   * Javascript(ES6+) with Flowtype, Typescript
-  * Dynamic CSS(SASS/Stylus/Less)
+  * CSS Preprocess(SASS/Stylus/Less)
 * Frameworks & Tools
   * React.js, Vue.js, Electron/Node-webkit, PWA
   * Server Side Rendering (Next.js/Nuxt.js), API Gateway (Loopback.js)
