@@ -83,8 +83,6 @@
 | 2006.05.01 - 2007.02.07 | 에크루          | 여성 의류(쇼핑몰) 창업, 운영, 개발 |
 | 2001.04.01 - 2002.11.18 | (주)이노솔루스   | 법률 상담 솔루션 개발       |
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
 ## Projects
 
 ### Triple - 실시간 여행가이드 앱
@@ -301,8 +299,6 @@ flickr 와 같이 개인 사진을 관리하는 서비스 <현재는 Ndrive 와 
   * 법률 ERP 솔루션 개발 및 웹 서비스(PHP) 간 통신 모듈 개발
 * 사용기술
   * Delphi, Interbase, PHP
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Open Source projects <small style="font-size: .5em; color: grey">(2012.03 ~ Present)</small>
 
@@ -522,8 +518,6 @@ NW.js(node-webkit), Node.js, Marked.js, codemirror, twitter bootstrap, backbone.
   > Chromimum, ARM용 리눅스(Archi, Debian, Raspbian), Node.js, Raspberry Pi & Arduino
 -->
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
 ## Activities
 
 ### Plan & Retrospects
@@ -621,7 +615,6 @@ NW.js(node-webkit), Node.js, Marked.js, codemirror, twitter bootstrap, backbone.
 
 언제든지 Why 에 대해 깊이 고민하고 본질의 문제를 투명하게 정의하고 우리가 생각하는 목표를 달성하기 위해 노력하는 개발자가 되기 위해 노력합니다. 또한 동료의 기여에 박수와 좋은 피드백을 가장 잘 주는 사람이 되려합니다.
 
-<br/><br/><br/><br/><br/>
 ---
 위의 내용은 사실임을 증명하며, 만약 사실이 아닐 경우 MIT 라이센스로 이 정보를 개인적인 용도로 이용할 수 있도록 허용합니다.
 
