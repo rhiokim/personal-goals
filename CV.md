@@ -625,4 +625,4 @@ NW.js(node-webkit), Node.js, Marked.js, codemirror, twitter bootstrap, backbone.
 ---
 위의 내용은 사실임을 증명하며, 만약 사실이 아닐 경우 MIT 라이센스로 이 정보를 개인적인 용도로 이용할 수 있도록 허용합니다.
 
-<img src="/rhiokim/personal-goals/raw/master/media/sign.png" alt="sign" style="max-width:10%;">
+<img src="https://raw.githubusercontent.com/rhiokim/personal-goals/raw/master/media/sign.png" alt="sign" style="max-width:10%;">
