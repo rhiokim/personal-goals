@@ -10,26 +10,26 @@
 * Birth: 1980.04.05
 * Github: https://github.com/rhiokim
 
-## Summary
+## Background
 
-2007년 Web 2.0과 함께 프론트엔드 기술이 조명을 받을 때부터 12년 이상의 전문적인 Web Standards & Browser Technoliges 기반의 웹 애플리케이션 개발, 기술 발표, OSS 경험을 보유하고 있습니다. 더불어 BaaS, Paas, IaaS 와 같은 플랫폼 지향적 서비스 개발의 경험 또한 가지고 있습니다.
+2007년 Web 2.0과 함께 프론트엔드 기술이 조명을 받을 때부터 12년 이상의 전문적인 Web Standards & Browser Technoliges 기반의 웹 애플리케이션 개발, 기술 발표, OSS 경험을 보유하고 있습니다. 더불어 BaaS, PaaS, IaaS 와 같은 플랫폼 지향적 서비스 개발의 경험 또한 가지고 있습니다.
 
 ## Core Competencies
 
 * 대규모 웹(SPA, Universal) 애플리케이션 설계와 개발
   * PWA, SSR, Testing, Optimization, Tooling, SEO, Workflow
   * 웹 컴포넌트 주도 애플리케이션 개발 경험
-  * Mobile, Desktop & IOT 환경에 대한 경험과 이해
+  * Mobile, Desktop & IOT 환경에서의 실무 경험과 이해
 * 프로세스에 대한 일반적인 이해와 경험
   * Large-scale e-Commerce 비지니스
   * 크로스 펑셔널(Cross-Functional)팀 워킹
   * 오픈소스 소프트웨어 라이프 사이클 경험
   * DevOps 와 Modern CI/CD Pipeline
-  * Design Ops, Design System
+  * Design Ops, Design System 경험
   * Agile/Lean/MVP/Growth Hacking
   * Mobile Backend as a Service(BaaS)
   * Infrastructure as a Service(IaaS)
-* Microservice Architecture 와 Container Orchestration
+* Microservice Architecture 와 Container Orchestration 에 대한 경험
 
 <!-- * Design and Implementation large-scale web application
   * Effecient workflow, PWA, Universal Rendering, Testing, Performance Tunning, Tooling
@@ -77,6 +77,8 @@
 
 ### 창업 및 대학벤처
 
+| 기  간             | 회사 이름     | 부 문                         |
+|------------------|:----------:|------------------------------|
 | 2008.08.01 - 2010.03.02 | (주)아이토비     | 동영상 검색 시각화 선임연구원 |
 | 2006.05.01 - 2007.02.07 | 에크루          | 여성 의류(쇼핑몰) 창업, 운영, 개발 |
 | 2001.04.01 - 2002.11.18 | (주)이노솔루스   | 법률 상담 솔루션 개발       |
@@ -97,14 +99,17 @@
 </video> -->
 
 * 역할
-  * 투어티켓 커머스 서비스 프론트엔드 개발 전담
+  * 투어티켓 e-commerce 프론트엔드 개발 전담
   * 트리플 <-> 공급사 이종 서비스간 주문폼 정보 매핑을 위한 예약폼 IDL 구현
+  * 트리플 <-> 공급사 이종 서비스간 자동 주문 CLI 개발
   * 퍼포먼스 튜닝 및 E2E 테스트 케이스 관리
   * 모바일(iOS, Android) 웹뷰 연동에 발생하는 기술적인 이슈 대응
   * 내 예약 관리 웹 서비스 서스테이닝
-
+* 성과
+  * 안정적인 커머스 SPA 웹 애플리케이션 개발 구축
+  * 주문폼 IDL 과 자동주문 CLI 를 통한 운영비용 일부 효율적으로 개선
 * 사용기술
-  * Vue.js, CSS/Stylus, Vuex, Vuetify, PWA, NginX, Docker, Google Cloud CI/CD Pipeline, AWS, Cypress
+  * Vue.js, CSS/Stylus, Vuex, Vuetify, PWA, NginX, Docker, Puppeteer, Google Cloud CI/CD Pipeline, AWS, Cypress
 
 #### 결재 시스템 내제화 프로젝트 / 8month
 
@@ -114,6 +119,10 @@
   * 모바일 결제 시스템 프론트엔드 개발 전담 (이니시스 및 네이버페이 연동)
   * 결제 테스트 환경 Sandbox 애플리케이션 개발
   * React.js 기반의 Next.js 에서 프레임웍 통일을 위해서 Vue.js 기반의 Nuxt.js 로 전환
+* 성과
+  * 숙박, 투어티켓 향후 추가될 비지니스 영역에서 필요한 안정적인 결제 시스템 내제화
+  * 대행사를 통해 발생하던 유지운영 및 결제 비용 절감
+  * 백엔드 개발자가 백오피스 프론트 애플리케이션 구현할 수 있도록 구축 및 기술 지원
 * 사용기술
   * Next.js/Nuxt.js, CSS/Stylus, Express.js, Vue.js, Vuex, Vuetify
 
@@ -150,13 +159,15 @@
 
 #### New CDN(Content Distribution Network) platform - Edge Computing / 10month
 
-Cache 와 Edge Computing 에 중점을 둔 오케스트레이션 서비스로 CDNetworks 의 차세대 CDN 인프라 운영 방식을 개선하기 위한 프로젝트.
+Cache 와 Edge Computing 에 중점을 둔 오케스트레이션 플랫폼으로 CDNetworks 의 차세대 CDN 인프라 운영 방식을 개선하기 위한 프로젝트.
 
 * 역할
   * 서비스(Job)와 애플리케이션(Task, App) 생성 관리 및 스케쥴 UI/UX 개발
   * DNS 호스팅 서비스 UI/UX 개발
   * Loopback.js 를 기반으로 한 API Gateway 구축 및 운영
   * Jenkins, Docker Registry, Nomad 기반 웹 애플리케이션 CI/CD 구축
+* 성과
+  * Regarcy Infrasructure 분석과 보완을 통해 새로운 CDN Platform 자동화 구축
 * 사용기술
   * Backend: Nomad & Consul, Docker & Docker Swarm, Loopback.js (API Gateway), Node.js
   * Frontend: Angular2 (in Typescript), React.js
@@ -186,6 +197,8 @@ Cache 와 Edge Computing 에 중점을 둔 오케스트레이션 서비스로 CD
   * Notification Center, Analytics, User Profile UI 개발
   * 앱 개발자들을 위한 애플리케이션 관리 대쉬보드 프론트엔드 설계, Grunt.js 를 기반한 빌드, 배포 자동화 구축
   * Baas.io 기반 하이브리드 앱 개발을 위한 Javascript SDK 개발
+* 성과
+  * 안정적인 서비스 런칭 및 Baas.io 기반 애플리케이션 개발 고객 유치
 * 사용기술
   * Frontend: Backbone.js, jQuery, require.js, grunt.js, twitter bootstrap, Node.js 등
   * Agile & Scrum 협업, Git WorkFlow 제안 및 실천법 공유
@@ -196,17 +209,9 @@ Cache 와 Edge Computing 에 중점을 둔 오케스트레이션 서비스로 CD
 
 * 역할
   * 기획 및 UI 개발
+  * H3 컨퍼런스 2011 사이트 프론트엔드 개발 전담
 * 사용기술
   * Frontend: Backbone.js, jQuery, require.js, Node.js
-
-#### H3 컨퍼런스 2011 사이트 구축 / 1month
-
-KTH 에서 매년 진행하는 H3 개발자 컨퍼런스 사이트
-
-* 역할
-  * 전체 사이트 UI 개발 전담
-* 사용기술
-  * Frontend: jQuery, Node.js
 
 ### NHN - Calendar, Ajax UI Lab
 
@@ -217,6 +222,8 @@ KTH 에서 매년 진행하는 H3 개발자 컨퍼런스 사이트
 * 역할
   * 캘린더 서비스 서스테이닝 UI 개발 파트 리딩
   * 크로스 브라우징
+* 성과
+  * 사내 복잡도가 가장 높은 웹 애플리케이션으로 크로스 브라우저 이슈 대응 및 안정적인 서비스 운영
 * 사용기술
   * Frontend: Jindo <네이버 사내 자바스크립트 라이브러리>, QUnit, Jenkins
 
@@ -489,6 +496,8 @@ NW.js(node-webkit), Node.js, Marked.js, codemirror, twitter bootstrap, backbone.
 > React.js, Vue.js 와 Next.js, Nuxt.js 와 같은 모던 웹 애플리케이션 개발 시에도 경우에 따라 NginX, Node.js Configuration 뿐만 아니라 Cloud 환경에 따라 최적의 Docker Configuration 을 요구한다. 이런 일련의 과정의 자동화 및 최적화를 제공하는 CLI 툴을 개발중입니다.
 * Large Scale Frontend Architecture (writing) - https://github.com/rhiokim/large-scale-frontend
 > 지난 수년간의 Javascript Application 개발 경험을 바탕으로 대규모의 팀과 애플리케이션을 구축하기 위한 방법론을 작성중입니다.
+* Hyper Web Application Starter Kit - https://github.com/rhiokim/hybrid-vue-starter-kit
+> 웹 기반 기술을 이용한 하이브리드 온 오프라인 동기화 웹 애플리케이션을 구축할 수 있도록 모던 웹 기술을 활용한 스타터 킷
 * Design Ops & Design System
 > 과거에 DevOps 의 영역이 고도화 되지 않던 시절에 우리는 NginX, Apache 서버 Configuration 을 수동으로 해왔습니다. 그리고 지난 몇년간 DevOps 라는 개념을 통해 서버 시스템의 자동화 고도화가 빠르게 발전하고 있습니다.
 > 이와 동일한 맥락에 개발자들이 쉽게 접근하기 어려웠던 또 하나의 영역이 바로 사용자 엔드인데 이 부분의 자동화 즉 User Interface/Experience Design 을 체계적으로 자동화하려는 시도가 많아 이 부분의 공백을 채우기 위해 몇가지 필요한 지식을 수집하고 툴을 개발중입니다.
