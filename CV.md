@@ -1,8 +1,6 @@
 # Curriculum Vitae
 
-**Rhio, Kim**
-
-**김양원**
+**김양원 (Rhio, Kim)**
 
 * Mobile: 010-8347-9747
 * Email: rhio.kim@gmail.com
@@ -67,7 +65,7 @@
 
 | 기  간             | 회사 이름     | 부 문                         |
 |------------------|:----------:|------------------------------|
-| 2017.06.28 - 현재 | (주)트리플 | 투어티켓 e-커머스, OTA(Online Travel Agency) 플랫폼 개발 |
+| 2017.06.28 - 2018.12.28 | (주)트리플 | 투어티켓 e-커머스, OTA(Online Travel Agency) 플랫폼 개발 |
 | 2015.08.16 - 2017.06.27 | (주)씨디네트웍스 | CDN 인프라 오케스트레이션 서비스/Portal 3.0 개발 |
 | 2013.04.09 - 2015.07    |   OSS   | 오픈 소스 프로젝트 (하루패드)       |
 | 2011.10.17 - 2013.04.09 | KTH(주)        | 플랫폼 개발팀, Baas 개발팀  |
@@ -618,4 +616,4 @@ NW.js(node-webkit), Node.js, Marked.js, codemirror, twitter bootstrap, backbone.
 ---
 위의 내용은 사실임을 증명하며, 만약 사실이 아닐 경우 MIT 라이센스로 이 정보를 개인적인 용도로 이용할 수 있도록 허용합니다.
 
-<img src="https://raw.githubusercontent.com/rhiokim/personal-goals/raw/master/media/sign.png" alt="sign" style="max-width:10%;">
+![](./media/sign-small.png)
