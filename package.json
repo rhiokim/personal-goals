@@ -1,0 +1,21 @@
+{
+  "name": "personal-goals",
+  "version": "1.0.0",
+  "description": "Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning. Learn more about it [here](http://una.im/personal-goals-guide).",
+  "main": "index.js",
+  "scripts": {
+    "pdf": "gitpdf https://github.com/rhiokim/personal-goals/blob/master/CV.md --output=./resume/rhiokim_cv.pdf --css=./media/resume.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhiokim/personal-goals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhiokim/personal-goals/issues"
+  },
+  "homepage": "https://github.com/rhiokim/personal-goals#readme"
+}

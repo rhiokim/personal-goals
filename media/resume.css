@@ -1,0 +1,37 @@
+.markdown-body h2 {
+  margin-top: 50px;
+}
+.markdown-body h3 {
+  margin-top: 40px;
+}
+
+.markdown-body a[href="https://raw.githubusercontent.com/rhiokim/thorn/master/assets/RASP_WAF.001.png"] {
+  display: none !important;
+}
+
+.markdown-body a[href="https://raw.githubusercontent.com/rhiokim/thorn/master/assets/RASP_WAF.002.png"] {
+  display: none !important;
+}
+
+.markdown-body a[href="https://raw.githubusercontent.com/rhiokim/gorae/master/media/Gorae.001.png"] {
+  display: none !important;
+}
+
+.markdown-body a[href="https://raw.githubusercontent.com/rhiokim/gorae/master/media/Gorae.002.png"] {
+  display: none !important;
+}
+
+.markdown-body img[src="https://raw.githubusercontent.com/rhiokim/rhino-icon/master/media/intro.png"] {
+  max-width: 30% !important;
+  display: block;
+}
+
+.markdown-body img[src="https://raw.githubusercontent.com/rhiokim/docker-icons/master/media/intro.png"] {
+  max-width: 50% !important;
+  display: block;
+  margin-left: -90px;
+}
+
+a[href="/rhiokim/personal-goals/blob/master/media/sign-small.png"] {
+  float: right
+}
