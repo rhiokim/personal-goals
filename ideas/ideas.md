@@ -20,3 +20,8 @@ cto repo new-project
 ```bash
 cto repo
 ```
+
+## References
+* https://docs.github.com/en/free-pro-team@latest/rest/reference
+* https://github.com/passbolt/passbolt_api
+* https://github.com/googleapis/repo-automation-bots
